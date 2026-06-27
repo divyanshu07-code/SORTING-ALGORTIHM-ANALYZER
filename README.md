@@ -1,4 +1,4 @@
-# Sorting Visualizer — Divyanshu
+# Sorting Visualizer 
 
 An interactive, web-based visualizer designed to demonstrate how various classic sorting algorithms manipulate data structures in real-time. This tool helps developers and students build an intuitive understanding of time complexities and array mutations.
 
@@ -23,12 +23,31 @@ The project has been organized with an independent, root-level deployment setup 
 
 
 ├── algorithms/                 # Dedicated folder for modular sorting logic
+
 │   ├── bubble.js               # Bubble Sort implementation
+
 │   ├── insertion.js            # Insertion Sort implementation
+
 │   ├── merge.js                # Merge Sort implementation
+
 │   ├── quick.js                # Quick Sort implementation
+
 │   └── selection.js            # Selection Sort implementation
+
 ├── index.html                  # Main entry point and structural layout
+
 ├── main.js                     # Application state handler and DOM controller
+
 ├── style.css                   # Custom styling and visualizer layout
+
 └── README.md                   # Project documentation
+
+---
+Author
+Divyanshu
+
+Web Development Enthusiast | Problem Solver
+
+Thank you for visiting the repository.
+
+If you like this project, consider giving it a ⭐ and sharing your feedback.
