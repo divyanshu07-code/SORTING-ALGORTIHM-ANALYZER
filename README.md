@@ -24,15 +24,15 @@ The project has been organized with an independent, root-level deployment setup 
 
 ├── algorithms/                 # Dedicated folder for modular sorting logic
 
-│   ├── bubble.js               # Bubble Sort implementation
+├── bubble.js               # Bubble Sort implementation
 
-│   ├── insertion.js            # Insertion Sort implementation
+├── insertion.js            # Insertion Sort implementation
 
-│   ├── merge.js                # Merge Sort implementation
+├── merge.js                # Merge Sort implementation
 
-│   ├── quick.js                # Quick Sort implementation
+├── quick.js                # Quick Sort implementation
 
-│   └── selection.js            # Selection Sort implementation
+└── selection.js            # Selection Sort implementation
 
 ├── index.html                  # Main entry point and structural layout
 
