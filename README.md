@@ -4,7 +4,7 @@ An interactive, web-based visualizer designed to demonstrate how various classic
 
 ## 🚀 Live Demo
 Check out the live application here:
-[Sorting Visualizer Live](https://sorting-algorithm-analyzer.vercel.app)
+[Sorting Visualizer Live](https://sorting-algortihm-analyzer-160dxygyx-divyanshu07-codes-projects.vercel.app/)
 
 ---
 
