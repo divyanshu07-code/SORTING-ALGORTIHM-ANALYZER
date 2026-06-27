@@ -1,10 +1,11 @@
-# Sorting Visualizer 
+# 📊 Sorting Visualizer 
 
 An interactive, web-based visualizer designed to demonstrate how various classic sorting algorithms manipulate data structures in real-time. This tool helps developers and students build an intuitive understanding of time complexities and array mutations.
 
 ## 🚀 Live Demo
-Check out the live application here:
-[Sorting Visualizer Live](https://sorting-algortihm-analyzer.vercel.app/)
+
+Experience the live application here:  
+👉 **[Sorting Visualizer Live](https://sorting-algortihm-analyzer.vercel.app/)**
 
 ---
 
@@ -16,6 +17,17 @@ Check out the live application here:
 
 ---
 
+## ⚡ Supported Algorithms & Complexity
+
+| Algorithm | Best Case | Average Case | Worst Case | Space Complexity |
+| :--- | :--- | :--- | :--- | :--- |
+| **Bubble Sort** | $O(n)$ | $O(n^2)$ | $O(n^2)$ | $O(1)$ |
+| **Selection Sort** | $O(n^2)$ | $O(n^2)$ | $O(n^2)$ | $O(1)$ |
+| **Insertion Sort** | $O(n)$ | $O(n^2)$ | $O(n^2)$ | $O(1)$ |
+| **Merge Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n \log n)$ | $O(n)$ |
+| **Quick Sort** | $O(n \log n)$ | $O(n \log n)$ | $O(n^2)$ | $O(\log n)$ |
+
+---
 
 ## 📂 Project Structure
 
