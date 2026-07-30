@@ -1,5 +1,6 @@
 # 📊 Sorting Visualizer 
 
+
 An interactive, web-based visualizer designed to demonstrate how various classic sorting algorithms manipulate data structures in real-time. This tool helps developers and students build an intuitive understanding of time complexities and array mutations.
 
 ## 🚀 Live Demo
